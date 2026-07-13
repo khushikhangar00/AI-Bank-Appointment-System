@@ -1,0 +1,51 @@
+Customer_ID,Purpose,Preferred_Date,Preferred_Time,Estimated_Duration,Priority,Current_Rush_Level,Current_Appointments,Available_Employees,Holiday,Day_of_Week,Request_Timestamp,Appointment_Status,Suggested_Slot,Actual_Allocated_Slot,Queue_Position,Waiting_Time,Cancellation,Rescheduled,Employee_ID,Customer_Feedback,Historical_Slot_Load
+CUST006710,Home Loan,2023-07-03,10:30-11:00,47,Normal,Low,21,8,0,Monday,2023-06-22 03:00:00,Accepted,10:30-11:00,10:30-11:00,2,9,0,0,EMP006,4.0,0.46
+CUST000218,Loan Inquiry,2023-03-06,14:30-15:00,25,Normal,Very High,47,8,0,Monday,2023-02-23 04:00:00,Suggested Slot,15:00-15:30,,0,0,0,0,,3.0,0.91
+CUST016170,Document Verification,2023-10-04,15:00-15:30,15,Normal,High,45,6,0,Wednesday,2023-09-29 19:00:00,Suggested Slot,16:00-16:30,,0,0,0,0,,3.0,0.29
+CUST015884,Cash Withdrawal,2023-10-31,11:00-11:30,12,Normal,Low,24,4,0,Tuesday,2023-10-22 02:00:00,Accepted,11:00-11:30,11:00-11:30,4,11,0,0,EMP019,2.0,0.86
+CUST001624,Complaint,2023-02-13,15:30-16:00,15,Senior Citizen,Low,35,3,0,Monday,2023-02-10 15:00:00,Suggested Slot,16:00-16:30,16:00-16:30,0,0,0,0,EMP014,3.0,0.49
+CUST008066,Cheque Deposit,2023-04-19,15:00-15:30,5,Senior Citizen,Medium,20,8,0,Wednesday,2023-04-10 10:00:00,Accepted,15:00-15:30,15:00-15:30,10,5,0,0,EMP008,3.0,0.55
+CUST010565,Cheque Clearance,2023-10-09,09:30-10:00,8,Disabled,Medium,25,7,0,Monday,2023-10-02 02:00:00,Accepted,09:30-10:00,09:30-10:00,3,7,1,0,EMP012,3.0,0.89
+CUST007807,Loan Approval,2023-06-25,14:00-14:30,50,Normal,Low,47,6,1,Sunday,2023-06-23 05:00:00,Rejected,,,0,0,0,0,,3.0,0.77
+CUST009714,Passbook Update,2023-09-21,11:00-11:30,5,Senior Citizen,High,25,5,0,Thursday,2023-09-11 11:00:00,Accepted,11:00-11:30,11:00-11:30,2,5,0,0,EMP012,2.0,0.46
+CUST007945,Education Loan,2023-05-16,10:30-11:00,30,Normal,Low,0,4,0,Tuesday,2023-05-06 12:00:00,Accepted,10:30-11:00,10:30-11:00,2,16,0,0,EMP015,3.0,0.78
+CUST008427,Passbook Update,2023-05-30,09:30-10:00,8,Disabled,High,40,5,0,Tuesday,2023-05-21 03:00:00,Suggested Slot,10:00-10:30,10:00-10:30,0,0,0,0,EMP007,4.0,0.79
+CUST017391,KYC Update,2023-12-22,09:30-10:00,17,Normal,Low,3,6,0,Friday,2023-12-20 10:00:00,Accepted,09:30-10:00,09:30-10:00,6,19,0,1,EMP012,1.0,0.83
+CUST013983,Loan Inquiry,2023-04-24,15:00-15:30,24,Normal,Medium,16,5,0,Monday,2023-04-11 09:00:00,Accepted,15:00-15:30,15:00-15:30,1,2,1,0,EMP003,2.0,0.48
+CUST011314,Passbook Update,2023-04-13,15:00-15:30,5,Normal,Medium,48,4,0,Thursday,2023-04-05 10:00:00,Suggested Slot,16:00-16:30,16:00-16:30,0,0,0,0,EMP014,4.0,0.69
+CUST006700,Demand Draft,2023-01-10,10:30-11:00,17,Senior Citizen,High,8,9,0,Tuesday,2022-12-28 20:00:00,Accepted,10:30-11:00,10:30-11:00,6,10,1,0,EMP002,4.0,0.55
+CUST007281,Home Loan,2023-05-16,15:30-16:00,42,Normal,Low,39,9,0,Tuesday,2023-05-06 20:00:00,Accepted,15:30-16:00,15:30-16:00,10,47,0,0,EMP012,3.0,0.15
+CUST004341,Cash Deposit,2023-04-11,14:00-14:30,15,Senior Citizen,Medium,3,3,0,Tuesday,2023-04-04 13:00:00,Accepted,14:00-14:30,14:00-14:30,1,8,0,0,EMP007,5.0,0.91
+CUST016696,Fixed Deposit,2023-07-07,14:00-14:30,18,Senior Citizen,High,13,5,0,Friday,2023-06-29 05:00:00,Suggested Slot,15:00-15:30,15:00-15:30,0,0,0,0,EMP007,2.0,0.98
+CUST003961,Account Opening,2023-08-03,10:00-10:30,25,Normal,High,33,4,0,Thursday,2023-07-21 06:00:00,Rejected,,,0,0,0,0,,3.0,0.93
+CUST012075,Home Loan,2023-03-02,15:00-15:30,42,Senior Citizen,Medium,43,7,0,Thursday,2023-02-19 08:00:00,Suggested Slot,16:00-16:30,16:00-16:30,0,0,0,0,EMP010,3.0,0.21
+CUST005146,Loan Inquiry,2023-10-15,11:00-11:30,22,Normal,Medium,19,9,1,Sunday,2023-10-12 19:00:00,Rejected,,,0,0,0,0,,3.0,0.84
+CUST005794,Other,2023-09-22,14:00-14:30,14,Senior Citizen,Low,41,8,0,Friday,2023-09-14 08:00:00,Rejected,,,0,0,0,0,,3.0,0.84
+CUST011902,Cheque Deposit,2023-05-01,11:00-11:30,5,Normal,Low,16,4,0,Monday,2023-04-18 00:00:00,Suggested Slot,11:30-12:00,,0,0,0,0,,3.0,0.12
+CUST004968,Passbook Update,2023-04-23,09:30-10:00,5,Senior Citizen,Very High,3,3,1,Sunday,2023-04-10 15:00:00,Rejected,,,0,0,0,0,,3.0,0.75
+CUST001919,Gold Loan,2023-09-10,14:30-15:00,50,Disabled,Medium,27,9,1,Sunday,2023-09-04 07:00:00,Rejected,,,0,0,0,0,,3.0,0.76
+CUST015896,Gold Loan,2023-09-26,11:00-11:30,42,Senior Citizen,Medium,2,5,0,Tuesday,2023-09-12 20:00:00,Accepted,11:00-11:30,11:00-11:30,1,11,0,0,EMP013,1.0,0.5
+CUST004556,Personal Loan,2023-11-21,15:00-15:30,29,Normal,Very High,18,7,0,Tuesday,2023-11-16 21:00:00,Suggested Slot,15:30-16:00,15:30-16:00,0,0,0,0,EMP002,2.0,0.45
+CUST001578,Cash Withdrawal,2023-07-28,14:30-15:00,11,Normal,Low,25,8,0,Friday,2023-07-24 20:00:00,Accepted,14:30-15:00,14:30-15:00,5,9,0,0,EMP005,4.0,0.63
+CUST006139,Loan Inquiry,2023-11-27,11:00-11:30,21,Normal,Low,20,8,0,Monday,2023-11-17 15:00:00,Accepted,11:00-11:30,11:00-11:30,3,7,0,0,EMP003,5.0,0.64
+CUST003824,Cash Withdrawal,2023-05-18,15:30-16:00,9,Senior Citizen,High,19,4,0,Thursday,2023-05-13 17:00:00,Accepted,15:30-16:00,15:30-16:00,5,12,0,0,EMP008,1.0,0.24
+CUST000855,Cheque Clearance,2023-07-26,14:30-15:00,5,Normal,Low,42,9,0,Wednesday,2023-07-24 14:00:00,Rejected,,,0,0,0,0,,3.0,0.97
+CUST005910,Personal Loan,2023-05-13,15:30-16:00,33,Senior Citizen,Medium,0,4,0,Saturday,2023-05-07 20:00:00,Accepted,15:30-16:00,15:30-16:00,1,12,0,0,EMP015,1.0,0.38
+CUST012065,Education Loan,2023-07-21,10:30-11:00,30,Disabled,Medium,39,4,0,Friday,2023-07-15 15:00:00,Suggested Slot,11:00-11:30,,0,0,0,0,,3.0,0.9
+CUST000448,Account Opening,2023-09-30,14:30-15:00,32,Normal,Medium,34,9,0,Saturday,2023-09-19 23:00:00,Accepted,14:30-15:00,14:30-15:00,2,8,0,0,EMP014,2.0,0.89
+CUST012388,Account Opening,2023-01-04,14:00-14:30,27,Senior Citizen,Very High,26,4,0,Wednesday,2022-12-31 15:00:00,Accepted,14:00-14:30,14:00-14:30,5,35,0,0,EMP004,2.0,0.67
+CUST018325,Locker Service,2023-08-09,11:30-12:00,18,Normal,Low,41,7,0,Wednesday,2023-08-03 09:00:00,Accepted,11:30-12:00,11:30-12:00,7,16,0,0,EMP018,5.0,0.87
+CUST010285,Demand Draft,2023-01-12,11:00-11:30,17,Normal,Very High,22,5,0,Thursday,2023-01-05 01:00:00,Accepted,11:00-11:30,11:00-11:30,2,8,0,0,EMP008,4.0,0.44
+CUST007235,Debit Card Issue,2023-05-17,12:00-12:30,20,Normal,Medium,38,8,0,Wednesday,2023-05-11 13:00:00,Accepted,12:00-12:30,12:00-12:30,6,15,0,0,EMP018,2.0,0.17
+CUST015189,RTGS/NEFT,2023-05-18,16:00-16:30,8,Normal,Low,15,6,0,Thursday,2023-05-11 01:00:00,Accepted,16:00-16:30,16:00-16:30,4,6,0,0,EMP016,4.0,0.69
+CUST018427,Other,2023-10-15,10:00-10:30,17,Normal,Very High,34,5,1,Sunday,2023-10-01 06:00:00,Rejected,,,0,0,0,0,,3.0,0.71
+CUST012281,Loan Inquiry,2023-08-21,12:30-13:00,17,Disabled,Medium,18,4,0,Monday,2023-08-09 01:00:00,Accepted,12:30-13:00,12:30-13:00,1,7,1,0,EMP002,4.0,0.76
+CUST012716,Demand Draft,2023-04-13,12:00-12:30,20,Normal,Very High,8,8,0,Thursday,2023-04-01 12:00:00,Accepted,12:00-12:30,12:00-12:30,1,3,0,0,EMP015,3.0,0.54
+CUST000011,Account Opening,2023-05-10,15:00-15:30,25,Normal,Medium,16,5,0,Wednesday,2023-05-03 02:00:00,Accepted,15:00-15:30,15:00-15:30,5,28,0,0,EMP011,1.0,0.68
+CUST005590,Gold Loan,2023-02-03,14:30-15:00,46,Normal,Medium,27,7,0,Friday,2023-01-22 21:00:00,Accepted,14:30-15:00,14:30-15:00,7,50,1,0,EMP006,3.0,0.89
+CUST013102,Home Loan,2023-12-03,10:30-11:00,50,Normal,Low,48,3,1,Sunday,2023-11-27 13:00:00,Rejected,,,0,0,0,0,,3.0,0.32
+CUST006780,Loan Inquiry,2023-01-30,12:00-12:30,21,Normal,High,44,4,0,Monday,2023-01-18 14:00:00,Suggested Slot,14:00-14:30,,0,0,0,0,,3.0,0.27
+CUST013711,Other,2023-09-27,09:30-10:00,13,Normal,Low,35,6,0,Wednesday,2023-09-16 20:00:00,Accepted,09:30-10:00,09:30-10:00,1,6,0,1,EMP009,4.0,0.83
+CUST002619,Demand Draft,2023-06-17,16:00-16:30,13,Normal,Medium,35,7,0,Saturday,2023-06-11 05:00:00,Accepted,16:00-16:30,16:00-16:30,4,8,0,0,EMP018,5.0,0.66
+CUST017643,Education Loan,2023-04-18,09:30-10:00,31,Normal,Low,34,7,0,Tuesday,2023-04-14 21:00:00,Accepted,09:30-10:00,09:30-10:00,1,4,0,0,EMP010,2.0,0.75
+CUST014249,Gold Loan,2023-09-29,12:30-13:00,40,Normal,Very High,14,4,0,Friday,2023-09-16 20:00:00,Suggested Slot,14:30-15:00,,0,0,0,0,,3.0,0.84

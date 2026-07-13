@@ -1,0 +1,15 @@
+Bank Application - Quick Start Guide
+=====================================
+
+HOW TO RUN (Just double-click!):
+  → Double-click "start.bat" in the project folder
+  → It will automatically start everything and open the browser
+
+HOW TO STOP:
+  → Double-click "stop.bat" OR close the Backend/Frontend terminal windows
+
+LINKS (after starting):
+  1. Customer Portal:    http://localhost:5173/
+  2. Employee Dashboard: http://localhost:5173/employee
+  3. Analytics:          http://localhost:5173/analytics
+  4. Backend API:        http://localhost:5000/api
