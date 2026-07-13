@@ -16,6 +16,7 @@ catboost==1.2.10
 
 # Production Server
 waitress==3.0.2
+gunicorn==23.0.0
 
 # Environment
 python-dotenv==1.1.0
