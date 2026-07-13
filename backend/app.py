@@ -31,18 +31,18 @@ def create_app():
         CORS(app)
     
     db.init_app(app)
-app.register_blueprint(api, url_prefix='/api')
+    app.register_blueprint(api, url_prefix='/api')
 
-@app.route("/")
-def home():
-    return {
-        "message": "AI Bank Appointment System API is running successfully"
-    }
+    @app.route("/")
+    def home():
+        return {
+             "message": "AI Bank Appointment System API is running successfully"
+        }
 
-with app.app_context():
-    db.create_all()
+    with app.app_context():
+        db.create_all()
 
-return app
+    return app
 
 if __name__ == '__main__':
     app = create_app()
